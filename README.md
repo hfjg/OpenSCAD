@@ -1,2 +1,2 @@
 # OpenSCAD
-A collection of helpful libraries and some nice thingies
+A collection of some nice thingies and helpful libraries for (mainly technical) constructions. 
