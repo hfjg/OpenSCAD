@@ -1,3 +1,3 @@
 # OpenSCAD libraries
 ## baConEl
-Basic construction elements and functions
+baConEl contains basic construction elements and functions that make use of OpenSCAD much easier.
